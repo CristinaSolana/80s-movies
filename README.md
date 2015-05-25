@@ -1,4 +1,3 @@
-
 - [ ] Lean on Me
 - [ ] Stand by Me
 - [ ] WarGames
@@ -18,3 +17,7 @@
 - [ ] Big
 - [ ] Tron
 - [ ] Little Monsters
+- [ ] Do the Right Thing
+- [ ] Batteries not included
+- [ ] Flight of the Navigator
+- [ ] Short Circuit
