@@ -10,3 +10,11 @@
 - [ ] Gremlins 2
 - [ ] Breakfast Club
 - [ ] Ferris Bueller's Day Off
+- [ ] E.T.
+- [ ] Ghostbusters
+- [ ] Karate Kid 1
+- [ ] Karate Kid 2
+- [ ] Weird Science
+- [ ] Big
+- [ ] Tron
+- [ ] Little Monsters
