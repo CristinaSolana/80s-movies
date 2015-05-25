@@ -1,0 +1,12 @@
+
+- [ ] Lean on Me
+- [ ] Stand by Me
+- [ ] WarGames
+- [ ] Back to the Future 1
+- [ ] Back to the Future 2
+- [ ] Back to the Future 3
+- [ ] Goonies
+- [ ] Gremlins 1
+- [ ] Gremlins 2
+- [ ] Breakfast Club
+- [ ] Ferris Bueller's Day Off
